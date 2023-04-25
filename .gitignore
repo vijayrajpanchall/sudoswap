@@ -1,0 +1,6 @@
+/.env
+/README.md
+/cache
+/node_modules
+/scripts
+/test
